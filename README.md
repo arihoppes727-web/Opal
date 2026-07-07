@@ -1,18 +1,33 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Opal
+uhhhhhhhhhhh
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Trans-fem
+- Height: 5ft 7in
+- Weight: heavy
+- Age: 29
 
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: ru, jp
-
-## Second test bank
-Test description 2
+## Old ass cv
+DONT USE. VERY OLD
 - Type: UTAU
-- Languages: en
+- Languages: jp
+
+## Kinda newer cv
+I mean if you want a cv use this
+- Type: UTAU
+- Languages: jp
+
+## Midnight vcv
+I made this is the middle of the night
+- Type: UTAU
+- Languages: jp
+
+## Sunrise cvvc
+Just the vcv made to support cvvc phonemes
+- Type: UTAU
+- Languages: jp
+
+## Synthv voicebank
+Only use for Synthv R1
+- Type: Synthv
+- Languages: jp
